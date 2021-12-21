@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/money-management/static/css/main.5a863b1c.chunk.css",
-    "main.js": "/money-management/static/js/main.aa986adf.chunk.js",
-    "main.js.map": "/money-management/static/js/main.aa986adf.chunk.js.map",
+    "main.js": "/money-management/static/js/main.3960aef5.chunk.js",
+    "main.js.map": "/money-management/static/js/main.3960aef5.chunk.js.map",
     "runtime-main.js": "/money-management/static/js/runtime-main.13044291.js",
     "runtime-main.js.map": "/money-management/static/js/runtime-main.13044291.js.map",
-    "static/js/2.15ff0b71.chunk.js": "/money-management/static/js/2.15ff0b71.chunk.js",
-    "static/js/2.15ff0b71.chunk.js.map": "/money-management/static/js/2.15ff0b71.chunk.js.map",
+    "static/js/2.795ca96d.chunk.js": "/money-management/static/js/2.795ca96d.chunk.js",
+    "static/js/2.795ca96d.chunk.js.map": "/money-management/static/js/2.795ca96d.chunk.js.map",
     "index.html": "/money-management/index.html",
     "static/css/main.5a863b1c.chunk.css.map": "/money-management/static/css/main.5a863b1c.chunk.css.map",
-    "static/js/2.15ff0b71.chunk.js.LICENSE.txt": "/money-management/static/js/2.15ff0b71.chunk.js.LICENSE.txt"
+    "static/js/2.795ca96d.chunk.js.LICENSE.txt": "/money-management/static/js/2.795ca96d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.13044291.js",
-    "static/js/2.15ff0b71.chunk.js",
+    "static/js/2.795ca96d.chunk.js",
     "static/css/main.5a863b1c.chunk.css",
-    "static/js/main.aa986adf.chunk.js"
+    "static/js/main.3960aef5.chunk.js"
   ]
 }
