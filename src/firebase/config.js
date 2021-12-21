@@ -1,6 +1,7 @@
 // Import the functions you need from the SDKs you need
 import firebase from "firebase/compat/app";
 import 'firebase/compat/firestore'
+
 import 'firebase/compat/auth'
 
 
@@ -22,3 +23,6 @@ export const db = app.firestore()
 
 // Firebase Auth
 export const auth = app.auth()
+
+// TimeStamp
+export const timestamp = firebase.firestore.FieldValue.serverTimestamp()
