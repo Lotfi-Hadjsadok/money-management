@@ -1,5 +1,5 @@
-import { createContext, useReducer } from "react";
-import { useEffect } from "react/cjs/react.development";
+import { createContext,useEffect , useReducer } from "react";
+
 import { auth } from "../firebase/config";
 
 export const AuthContext = createContext()
