@@ -1,5 +1,5 @@
-import { useState } from 'react'
-import { useEffect, useReducer } from 'react/cjs/react.development'
+import { useState,useEffect, useReducer  } from 'react'
+
 import { db, timestamp } from '../firebase/config'
 
 let initialState = {
